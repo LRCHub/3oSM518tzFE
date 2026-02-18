@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sign Of Life",
+  "base_artist": "Motionless In White",
+  "createdAt": "2026-02-18T19:00:52.160486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sign of Life",
+      "artist": "Skye",
+      "has_synced": false,
+      "path": "select/01_Sign_of_Life_Skye.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Sign of Life",
+      "artist": "Unleashed",
+      "has_synced": true,
+      "path": "select/02_No_Sign_of_Life_Unleashed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Sign of Life",
+      "artist": "Rage",
+      "has_synced": true,
+      "path": "select/03_No_Sign_of_Life_Rage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Sign of Life (Remastered)",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/04_No_Sign_of_Life_(Remastered)_Rage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Sign Of Life",
+      "artist": "OK Go",
+      "has_synced": true,
+      "path": "select/05_No_Sign_Of_Life_OK_Go.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sign Of Life",
+      "artist": "Motionless In White",
+      "has_synced": true,
+      "path": "select/06_Sign_Of_Life_Motionless_In_White.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Sign of Life",
+      "artist": "Rick Springfield",
+      "has_synced": false,
+      "path": "select/07_A_Sign_of_Life_Rick_Springfield.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sign Of Life",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/08_Sign_Of_Life_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Sign of Life",
+      "artist": "Allen/Olzon",
+      "has_synced": false,
+      "path": "select/09_No_Sign_of_Life_Allen_Olzon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sign of Life Inside",
+      "artist": "Angel Vivaldi",
+      "has_synced": false,
+      "path": "select/10_Sign_of_Life_Inside_Angel_Vivaldi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Sign Of Life",
+      "artist": "EMMA",
+      "has_synced": false,
+      "path": "select/11_No_Sign_Of_Life_EMMA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Sign of Life",
+      "artist": "Emma Bunton",
+      "has_synced": false,
+      "path": "select/12_No_Sign_of_Life_Emma_Bunton.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Sign of Life",
+      "artist": "Spies Like Us",
+      "has_synced": false,
+      "path": "select/13_A_Sign_of_Life_Spies_Like_Us.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sign Of Life",
+      "artist": "Nural",
+      "has_synced": true,
+      "path": "select/14_Sign_Of_Life_Nural.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Sign of Life",
+      "artist": "Iron Fire",
+      "has_synced": false,
+      "path": "select/15_No_Sign_of_Life_Iron_Fire.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sign of Life",
+      "artist": "Yoav",
+      "has_synced": true,
+      "path": "select/16_Sign_of_Life_Yoav.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sign Of Life",
+      "artist": "Motionless In White",
+      "has_synced": true,
+      "path": "select/17_Sign_Of_Life_Motionless_In_White.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sign Of Life",
+      "artist": "Motionless In White",
+      "has_synced": false,
+      "path": "select/pl_01_Sign_Of_Life_Motionless_In_White.txt"
+    }
+  ]
+}
